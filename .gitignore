@@ -1,0 +1,10 @@
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
+/pom.xml
+/server/pom.xml
+/chat/target/
+/chat/chat.iml
